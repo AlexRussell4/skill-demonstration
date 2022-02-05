@@ -1,1 +1,6 @@
-public class SkillDemo {}
+public class SkillDemo {
+    public int multiply(int a, int b)
+    {
+        return a*b;
+    }
+}
